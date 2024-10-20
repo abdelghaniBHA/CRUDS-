@@ -70,3 +70,12 @@ button:hover{
     background: rgba(222, 29, 222, 0.729);
     letter-spacing: 1px;
 }
+
+.btnSearch{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btnSearch button{
+    width: 45%;
+}
